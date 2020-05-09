@@ -1,0 +1,9 @@
+.Footer{
+    border: 3px solid purple;
+    margin: 5px;
+    height: 50px;
+    text-align: center;
+    width: 99%;
+    color: purple;
+    font-size: 26px;
+}

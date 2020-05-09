@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  border: 3px solid blue;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 90%;
+  height: 90%;
+  margin: 30px;
+  text-align: left;
 }
 
 .App-logo {
